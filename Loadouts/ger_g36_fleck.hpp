@@ -73,7 +73,7 @@ class Plane {};
 class Ship_F {};
 
 class Soldier_F {// rifleman
-  uniform[] = {"CUP_U_B_GER_Flecktarn_1","CUP_U_B_GER_Flecktarn_2"};
+  uniform[] = {"rhsgref_uniform_flecktarn_full"};
   vest[] = {"CUP_V_B_GER_Carrier_Vest_3"};
   headgear[] = {"rhsusf_opscore_fg_pelt","rhsusf_opscore_fg_pelt_cam"};
   backpack[] = {"CUP_B_GER_Pack_Flecktarn"};
